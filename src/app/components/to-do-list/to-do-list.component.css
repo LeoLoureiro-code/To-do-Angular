@@ -1,0 +1,21 @@
+.task-list-div{
+    background-color: rgb(49, 49, 53);
+    border-radius: 15px;
+    height: 100%;
+}
+
+.task-list{
+    list-style-type: none;
+}
+
+.task{
+    width: 100%;
+    height: 40px;
+    padding: 0.7rem;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif
+}
